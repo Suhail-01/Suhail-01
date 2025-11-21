@@ -28,17 +28,50 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Languages and Tools
 
-**Languages & Frameworks**
+<p align="left">
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+       alt="html5" width="40" height="40"/>
 
-`HTML` `CSS` `JavaScript` `TypeScript` `Python`
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+       alt="css3" width="40" height="40"/>
 
-**Tools & Other**
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+       alt="javascript" width="40" height="40"/>
 
-`Git` `GitHub` `Figma` `VS Code` `Responsive Web Design`
+  <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
+       alt="typescript" width="40" height="40"/>
 
----
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+       alt="react" width="40" height="40"/>
+
+  <!-- Node.js -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
+       alt="nodejs" width="40" height="40"/>
+
+  <!-- MongoDB -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
+       alt="mongodb" width="40" height="40"/>
+
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
+       alt="git" width="40" height="40"/>
+
+  <!-- GitHub -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" 
+       alt="github" width="40" height="40"/>
+
+  <!-- Figma -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" 
+       alt="figma" width="40" height="40"/>
+</p>
+
 
 ### 📊 GitHub Stats
 
