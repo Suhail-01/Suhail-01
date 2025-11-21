@@ -2,13 +2,10 @@
 <h3 align="center">Frontend Developer • UI/UX • 2025 Grad</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">
+  <a href="https://www.linkedin.com/in/suhail-sayyed-b7616425b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://suhail-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
+
+  <a href="mailto:suhailsayyed01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -26,7 +23,7 @@
   - Gaining hands-on experience in **UI/UX research, wireframing & prototyping**
 - 🚀 Current Program:  
   **“2.0 Job Ready AI Powered Cohort – Complete Web Development + DSA + Gen-AI + Aptitude”**
-- 🌱 Currently sharpening: modern frontend, UI/UX thinking, JavaScript & TypeScript
+- 🌱 Currently sharpening: modern frontend, JavaScript & TypeScript
 - 🔍 Open to: **Frontend / UI Engineer roles & internships (2025)**
 
 ---
