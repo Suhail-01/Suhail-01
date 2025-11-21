@@ -1,10 +1,12 @@
 <div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Suhail+Sayyed;Mearn+Stack+Developer;2025+Grad)](https://git.io/typing-svg)
-</div>
-<!-- Cat gif under the headline -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnZ21hbzl4cXVvNmY4eDVka2lyZDQ1Ymh4Z2dkZ3FzYnM4YzRsbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/E6jscXfv3AkWQ/giphy.gif" alt="Cat gif" width="250" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Suhail+Sayyed+Frontend+Developer+%E2%80%A2+UI%2FUX+%E2%80%A2+2025+Grad" />
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnZ21hbzl4cXVvNmY4eDVka2lyZDQ1Ymh4Z2dkZ3FzYnM4YzRsbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/E6jscXfv3AkWQ/giphy.gif"
+    alt="cat typing"
+    width="40"
+    style="vertical-align: middle; margin-left: 8px;"
+  />
 </p>
 
 
