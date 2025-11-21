@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Suhail Sayyed</h1>
-<h3 align="center">Frontend Developer • UI/UX • 2025 Grad</h3>
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Suhail+Sayyed;Frontend+Developer;UI%2FUX+Enthusiast;2025+Grad)](https://git.io/typing-svg)
+
+</div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suhail-sayyed-b7616425b/">
