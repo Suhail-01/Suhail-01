@@ -28,6 +28,36 @@
 
 ---
 
+## 📊 GitHub Summary
+
+<p align="center">
+  <!-- Big profile card at the top -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suhail-01&theme=github_dark" 
+    alt="Suhail's GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <!-- Stats card + productive time card -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suhail-01&theme=github_dark" 
+    alt="Suhail's GitHub Stats" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suhail-01&theme=github_dark&utcOffset=5.5" 
+    alt="Suhail's Productive Time" />
+</p>
+
+<p align="center">
+  <!-- Top languages by repo + by commits -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suhail-01&theme=github_dark" 
+    alt="Top Languages by Repo" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suhail-01&theme=github_dark" 
+    alt="Top Languages by Commit" />
+</p>
+
+
 ### 🛠 Languages and Tools
 
 <p align="left">
