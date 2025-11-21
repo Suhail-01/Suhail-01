@@ -1,13 +1,14 @@
 <div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Suhail+Sayyed+Frontend+Developer+%E2%80%A2+UI%2FUX+%E2%80%A2+2025+Grad" />
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnZ21hbzl4cXVvNmY4eDVka2lyZDQ1Ymh4Z2dkZ3FzYnM4YzRsbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/E6jscXfv3AkWQ/giphy.gif"
-    alt="cat typing"
-    width="40"
-    style="vertical-align: middle; margin-left: 8px;"
-  />
-</p>
+  <h1>
+    Hi 👋, I'm Suhail Sayyed — Frontend Developer • UI/UX • 2025 Grad
+    <img
+      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnZ21hbzl4cXVvNmY4eDVka2lyZDQ1Ymh4Z2dkZ3FzYnM4YzRsbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/E6jscXfv3AkWQ/giphy.gif"
+      alt="cat typing"
+      width="40"
+      style="vertical-align: middle; margin-left: 8px;"
+    />
+  </h1>
+</div>
 
 
 <p align="center">
