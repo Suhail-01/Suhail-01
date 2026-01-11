@@ -1,7 +1,7 @@
 <!-- 🔹 HEADER + CAT GIF -->
 <div align="center">
   <h2>
-    Hi 👋, I'm <strong>Suhail Sayyed</strong> — MERN Stack Developer · 2025 Grad
+    Hi 👋, I'm <strong>Suhail Sayyed</strong> — Full Stack Developer 
     <img
       src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnZ21hbzl4cXVvNmY4eDVka2lyZDQ1Ymh4Z2dkZ3FzYnM4YzRsbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/E6jscXfv3AkWQ/giphy.gif"
       alt="cat typing"
@@ -34,7 +34,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.Tech in **Electronics and Telecommunication Engineering (ENTC)** @ VVP IET — **2025 passout**
-- 💼 **Frontend Developer Intern** @ **HCTMM MEDTECH PRIVATE LIMITED**  
+- 💼 **Full stack Developer** @ **HCTMM MEDTECH PRIVATE LIMITED**  
   📆 Sep 2025 – Present · Remote · India  
   - Designing intuitive & responsive UI layouts in **Figma**  
   - Building scalable frontend components using **HTML, CSS & JavaScript**  
