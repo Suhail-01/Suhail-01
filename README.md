@@ -2,10 +2,7 @@
 <div align="center">
   <h2>
     Hi 👋, I'm <strong>Suhail Sayyed</strong> — Full Stack Developer 
-    <img
-      src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnZ21hbzl4cXVvNmY4eDVka2lyZDQ1Ymh4Z2dkZ3FzYnM4YzRsbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/E6jscXfv3AkWQ/giphy.gif"
-      width="32"
-    />
+    <img src="https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif" width="32"/>
   </h2>
 </div>
 
@@ -23,18 +20,34 @@
 ---
 
 ### 🧑‍💻 About Me
-(unchanged)
+
+- 🎓 B.Tech ENTC — 2025
+- 💼 Full Stack Developer @ HCTMM Medtech  
+- 🌱 Frontend + TypeScript  
+- 🔍 Open to Frontend / UI roles  
 
 ---
 
 ## 📊 GitHub Summary
-(unchanged)
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suhail-01&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suhail-01&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suhail-01&theme=github_dark&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suhail-01&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suhail-01&theme=github_dark"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Languages and Tools
 
-### 👨‍🎨 Frontend
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
@@ -44,24 +57,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
-</p>
-
-### 🧠 Backend
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-</p>
-
-### 🗄 Databases
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
@@ -73,9 +73,18 @@
 ---
 
 ### 📊 GitHub Stats
-(unchanged)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-01&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
 
 ---
 
 ### 📌 A Few Things I’ve Built
-(unchanged)
+
+- tinny-url  
+- CareerPlatform  
+- sundown  
+
+> Check pinned repos 👇
