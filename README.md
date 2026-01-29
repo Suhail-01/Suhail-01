@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🎓 B.Tech ENTC —> 2025
@@ -26,11 +26,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Suhail-01's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=Suhail-01&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Suhail-01's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suhail-01&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Suhail Sayyed's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Suhail-01&theme=nightowl&radius=10" alt="Suhail-01's Activity Graph" />
