@@ -27,12 +27,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-01&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800&v=1"
+    height="165"
+    alt="Suhail-01 GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-01&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800&v=1"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Suhail-01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ---
 
