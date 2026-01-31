@@ -23,65 +23,44 @@
 - Open Source Collaboration
 
 ---
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center" style="background:#0d1117; padding:18px; border-radius:16px; border:1px solid #30363d;">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" height="165"/>
 
-<table>
-<tr>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Suhail-01&theme=github-dark&hide_border=true" height="165"/>
+</p>
 
-<td>
-<img
-src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github"
-height="165"
-/>
-</td>
+---
 
-<td>
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-01&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
-height="165"
-/>
-</td>
+### 📈 Contribution Activity
 
-</tr>
-</table>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhail-01&theme=github-dark&hide_border=true" width="100%"/>
+</p>
 
-<br/>
+---
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Suhail-01&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true"
-width="100%"
-/>
+### 💻 Most Used Languages
 
-<br/><br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-01&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-<table>
-<tr>
+---
 
-<td>
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-01&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"
-height="165"
-/>
-</td>
+### 🏆 GitHub Trophies
 
-<td>
-<img
-src="https://github-profile-trophy.vercel.app/?username=Suhail-01&theme=onestar&no-frame=true&row=2&column=3"
-/>
-</td>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Suhail-01&theme=darkhub&no-frame=true&row=1&column=6"/>
+</p>
 
-</tr>
-</table>
+---
 
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Suhail-01&label=Profile%20Views&color=blue&style=flat"/>
+</p>
 
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Suhail-01&label=Profile%20Views&color=0e75b6&style=flat" />
-</div>
 
 
 ## 🛠️ Languages & Tools
