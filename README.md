@@ -46,15 +46,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-01&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Suhail-01&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
-
 ---
 
 <p align="center">
