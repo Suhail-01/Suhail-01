@@ -27,10 +27,9 @@
 
 ## 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhail-01&theme=github-dark&hide_border=true" width="100%"/>
+</p>
 
 ---
 
@@ -70,6 +69,11 @@
 
 ## 💬 Quote
 > Code. Learn. Improve. Repeat.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
