@@ -23,27 +23,66 @@
 - Open Source Collaboration
 
 ---
+### 📊 GitHub Statistics
 
-### 📊 GitHub Stats
+<div align="center" style="background:#0d1117; padding:18px; border-radius:16px; border:1px solid #30363d;">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&cache_seconds=86400&v=3"
-    height="165"
-    alt="Suhail-01 GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-01&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&v=3"
-    height="165"
-    alt="Top Languages"
-  />
-</p>
+<table>
+<tr>
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Suhail-01&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+<td>
+<img
+src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github"
+height="165"
+/>
+</td>
 
+<td>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-01&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+height="165"
+/>
+</td>
 
----
+</tr>
+</table>
+
+<br/>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Suhail-01&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true"
+width="100%"
+/>
+
+<br/><br/>
+
+<table>
+<tr>
+
+<td>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-01&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9"
+height="165"
+/>
+</td>
+
+<td>
+<img
+src="https://github-profile-trophy.vercel.app/?username=Suhail-01&theme=onestar&no-frame=true&row=2&column=3"
+/>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Suhail-01&label=Profile%20Views&color=0e75b6&style=flat" />
+</div>
+
 
 ## 🛠️ Languages & Tools
 
