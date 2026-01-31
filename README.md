@@ -1,12 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Suhail Sayyed</h1>
 <h3 align="center">Software Developer | Open Source Enthusiast</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Suhail-01">
-    <img src="https://komarev.com/ghpvc/?username=Suhail-01&label=Profile%20views&color=00FFFF&style=flat-square" alt="Suhail-01's profile views" />
-  </a>
-</p>
-
 <img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
@@ -33,9 +27,10 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show=prs_merged,prs_merged_percentage&theme=github_dark&hide_border=true"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -46,11 +41,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suhail-01&label=Profile%20Views&color=blue&style=flat"/>
-</p>
-
 
 ## 🛠️ Languages & Tools
 
@@ -80,11 +70,6 @@
 
 ## 💬 Quote
 > Code. Learn. Improve. Repeat.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
