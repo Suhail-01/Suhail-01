@@ -25,38 +25,30 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suhail-01&theme=github-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suhail-01&theme=github-dark&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
-<!-- Option 1 (Main) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhail-01&theme=github-dark&hide_border=true&radius=8" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suhail-01&show=prs_merged,prs_merged_percentage&theme=github_dark&hide_border=true"/>
 </p>
-
-<!-- Option 2 (Fallback - if Option 1 ever breaks, uncomment below and comment Option 1) -->
-<!--
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Suhail-01&theme=github-dark&hide_border=true" width="100%" />
-</p>
--->
 
 ---
 
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-01&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-01&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suhail-01&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Suhail-01&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 
